@@ -1,0 +1,27 @@
+// Place all the styles related to the ask controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+form {
+  display: flex;
+  align-items: center;
+  margin-left: 20px;
+}
+
+#btn {
+  background-color: #0000FF;
+  border: none;
+  color: white;
+  padding: 10px;
+  font-weight: bold;
+  border-radius: 0px 5px 5px 0;
+  box-shadow: 3px 3px 5px 0px #ccc;
+}
+
+#input {
+    padding: 10px;
+    border-radius: 5px 0 0 5px;
+  border:none;
+  box-shadow: 3px 3px 5px 0px #ccc;
+}
+
+
